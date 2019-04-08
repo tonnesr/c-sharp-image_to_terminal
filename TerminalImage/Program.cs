@@ -7,7 +7,7 @@ namespace TerminalImage
 {
     class Program
     {
-        readonly string path = "E:\\Bilder\\unnamed.jpg";
+        readonly string path = "E:\\images\\image.png"; //Change this string to image path.
         readonly Bitmap img;
 
         static Program program;
