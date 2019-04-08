@@ -3,10 +3,10 @@ Writes an image to console with colours.
 
 
 
-###Before:
+### Before:
 ![Image](https://pbs.twimg.com/profile_images/1015555334537084928/pk-xr-YR.jpg)
 
 
 
-###After:
+### After:
 ![Terminal Image](https://i.imgur.com/Acz25DS.png)
