@@ -1,0 +1,7 @@
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\bin\Debug\TerminalImage.exe.config
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\bin\Debug\TerminalImage.exe
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\bin\Debug\TerminalImage.pdb
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\obj\Debug\TerminalImage.csprojAssemblyReference.cache
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\obj\Debug\TerminalImage.csproj.CoreCompileInputs.cache
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\obj\Debug\TerminalImage.exe
+C:\Users\Tonnes\source\repos\TerminalImage\TerminalImage\obj\Debug\TerminalImage.pdb
